@@ -16,7 +16,7 @@
 - [Installation Steps](#️-installation-steps)
 - [Step 1: Install Node.js and npm](#step-1-install-nodejs-and-npm)
 - [Step 2: Verify Node.js and npm Installation](#step-2-verify-nodejs-and-npm-installation)
-- [Step 3: Install create-react-app CLI (Optional)](#step-3-install-create-react-app-cli-optional)
+- [Step 3:  Step 3: Create a React App](#Step-3-Create-a-React-App)
 - [Step 4: Create a New React App](#step-4-create-a-new-react-app)
 - [Step 5: Navigate into the App Directory](#step-5-navigate-into-the-app-directory)
 - [Step 6: Start the Development Server](#step-6-start-the-development-server)
@@ -71,10 +71,14 @@ v18.17.0
 9.8.0
 ```
 ---
+
+
 ## Step 3: Create a React App
 
 ```bash
 npx create-react-app <project name>
 ```
+---
+
 
 
