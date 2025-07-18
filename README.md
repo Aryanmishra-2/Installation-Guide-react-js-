@@ -26,13 +26,13 @@
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 React.js is a JavaScript library used to build fast and interactive user interfaces. This guide will help you set up a local React development environment using `create-react-app`.
 
 ---
 
-## 🧰 Prerequisites
+## Prerequisites
 
 Make sure you have the following installed:
 
@@ -43,9 +43,9 @@ Make sure you have the following installed:
 
 ---
 
-## ⚙️ Installation Steps
+## Installation Steps
 
-### ✅ Step 1: Install Node.js and npm
+### Step 1: Install Node.js and npm
 
 Download and install Node.js from the official website:
 
@@ -53,11 +53,11 @@ Download and install Node.js from the official website:
 
 Install the **LTS (Recommended)** version.
 
-> 💡 `npm` (Node Package Manager) is automatically installed with Node.js.
+> `npm` (Node Package Manager) is automatically installed with Node.js.
 
 ---
 
-### ✅ Step 2: Verify Node.js and npm Installation
+### Step 2: Verify Node.js and npm Installation
 
 Open your terminal or command prompt and run:
 
