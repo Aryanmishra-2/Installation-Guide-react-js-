@@ -57,10 +57,24 @@ Install the **LTS (Recommended)** version.
 
 ---
 
-### Step 2: Verify Node.js and npm Installation
-
-Open your terminal or command prompt and run:
+## Step 2: Verify Node.js and npm Installation
 
 ```bash
 node -v
 npm -v
+```
+---
+- You should see version numbers. Example:-
+
+```bash
+v18.17.0
+9.8.0
+```
+---
+## Step 3: Create a React App
+
+```bash
+npx create-react-app <project name>
+```
+
+
