@@ -22,6 +22,7 @@
 - [Step 6: Start the Development Server](#step-6-start-the-development-server)
 - [Troubleshooting](#Troubleshooting)
 - [Conclusion](#Conclusion)
+- [Contact Information](#Contact Information)
 - [References](#References)
 
 ---
@@ -72,7 +73,7 @@ v18.17.0
 ```
 ---
 
-| # | Description |
+| No | Description |
 |---|-------------|
 | 1 | **npm (Node Package Manager)** is used to install all the dependencies needed when creating a React application. These include packages like React itself, Webpack, Babel, etc. |
 | 2 | All of these packages are installed via **npm**. |
@@ -110,6 +111,15 @@ npm start
 
 ## Conclusion
 Node.js and npm are essential for building and running React.js applications—not only in production but also during development. They are required to install dependencies, start the development server, and manage the build process.
+
+---
+## Contact Information
+
+| Name          | Email                                |
+| ------------- | ------------------------------------ |
+| Aryan Mishra  | aryan.mishra@mygurukulam.co          |
+
+---
 
 
 
