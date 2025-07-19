@@ -22,7 +22,7 @@
 - [Step 6: Start the Development Server](#step-6-start-the-development-server)
 - [Troubleshooting](#Troubleshooting)
 - [Conclusion](#Conclusion)
-- [Contact Information](#Contact Information)
+- [Contact Information](#Contact-Information)
 - [References](#References)
 
 ---
@@ -121,5 +121,12 @@ Node.js and npm are essential for building and running React.js applications—n
 
 ---
 
+## References  
+
+|  Name                                  | References                                                                                                            |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------|
+| **Node.js**                            | [Link](https://nodejs.org)                                                                                        |
+| **React**                              | [Link](https://react.dev)                                                                                        |
+ 
 
 
