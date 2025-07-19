@@ -28,7 +28,7 @@
 
 ## Introduction
 
-React.js is a JavaScript library used to build fast and interactive user interfaces. This guide will help you set up a local React development environment using `create-react-app`.
+React.js is a JavaScript library used to build fast and interactive user interfaces.  This guide provides a step-by-step approach to install and set up a local React development environment using the official create-react-app tool.
 
 ---
 
