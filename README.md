@@ -18,7 +18,6 @@
 - [Step 2: Verify Node.js and npm Installation](#step-2-verify-nodejs-and-npm-installation)
 - [Step 3:  Step 3: Create a React App](#Step-3-Create-a-React-App)
 - [Step 4: Create a New React App](#step-4-create-a-new-react-app)
-- [Step 5: Navigate into the App Directory](#step-5-navigate-into-the-app-directory)
 - [Step 6: Start the Development Server](#step-6-start-the-development-server)
 - [Troubleshooting](#Troubleshooting)
 - [Conclusion](#Conclusion)
