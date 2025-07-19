@@ -13,7 +13,7 @@
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Installation Steps](#️installation-steps)
+- [Installation Steps](#installation-steps)
 - [Step 1: Install Node.js and npm](#step-1-install-nodejs-and-npm)
 - [Step 2: Verify Node.js and npm Installation](#step-2-verify-nodejs-and-npm-installation)
 - [Step 3:  Step 3: Create a React App](#Step-3-Create-a-React-App)
