@@ -16,6 +16,7 @@
 - [Installation Steps](#installation-steps)
 - [Step 1: Install Node.js and npm](#step-1-install-nodejs-and-npm)
 - [Step 2: Verify Node.js and npm Installation](#step-2-verify-nodejs-and-npm-installation)
+- [Description](#Description)
 - [Step 3:  Step 3: Create a React App](#Step-3-Create-a-React-App)
 - [Step 4: Create a New React App](#step-4-create-a-new-react-app)
 - [Troubleshooting](#Troubleshooting)
@@ -71,6 +72,8 @@ v18.17.0
 ```
 ---
 
+## Description
+
 | No | Description |
 |---|-------------|
 | 1 | **npm (Node Package Manager)** is used to install all the dependencies needed when creating a React application. These include packages like React itself, Webpack, Babel, etc. |
@@ -121,10 +124,10 @@ Node.js and npm are essential for building and running React.js applications—n
 
 ## References  
 
-|  Name                                  | References                                                                                                            |
-|----------------------------------------|---------------------------------------------------------------------------------------------------------|
-| **Node.js**                            | [Link](https://nodejs.org)                                                                                        |
-| **React**                              | [Link](https://react.dev)                                                                                        |
+|  Name                                                  | References                                                                                       |
+|--------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Node.js**                                            | [Link](https://nodejs.org)                                                                        |
+| **React**                                              | [Link](https://react.dev)                                                                             |
  
 
 
